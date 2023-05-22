@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_singer_activity.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\singer_activity.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_down2.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\down2.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dome.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\item_dome.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_myself22.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\myself22.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_thumb.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\thumb.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_address_pressed.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_address_pressed.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer13.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer13.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_first.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\first.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer7.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer7.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zuijin3.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\zuijin3.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_tb18.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\tb18.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\raw_music2.mp3.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\raw\\music2.mp3"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_putong3.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\putong3.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ad16.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ad16.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\raw_music1.mp3.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\raw\\music1.mp3"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_down1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\down1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer12.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer12.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_next.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\next.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_page04.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\page04.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_myself21.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\myself21.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zuijin4.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\zuijin4.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer8.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer8.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_settings_normal.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_settings_normal.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_player115.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\player115.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myself14.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\myself14.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_load5.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\load5.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_list.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_home1.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\home1.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background4.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\background4.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_purse2.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\purse2.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\round1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_musicitem.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\musicitem.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_address_normal.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_address_normal.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_find_frd_normal.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pi.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\activity_pi.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_rdaily_scrolling.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\rdaily_scrolling.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_page03.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\page03.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_player111.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\player111.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\raw_music4.mp3.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\raw\\music4.mp3"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_second.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_find_frd_pressed1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_find_frd_pressed1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_player114.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\player114.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_before.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\before.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_thrid.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\thrid.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bottom.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\bottom.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer3.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer3.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ad15.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ad15.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myself13.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\myself13.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_down3.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\down3.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\background1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_putong1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\putong1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_settings_pressed1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_settings_pressed1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_myself.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\myself.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer6.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer6.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_load3.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\load3.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_player.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ad12.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ad12.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_four.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\four.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_tb3.jpg.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-anydpi-v26\\tb3.jpg"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer9.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer9.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zuijin2.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\zuijin2.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zuijin5.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\zuijin5.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_purse.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\purse.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_beginning.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\beginning.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_load2.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\load2.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_address_pressed1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_address_pressed1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_page01.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\page01.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_down5.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\down5.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_player112.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\player112.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_six.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\six.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_music_pressed1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_music_pressed1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer10.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer10.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_common_bg.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\common_bg.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myself11.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\myself11.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_settings_pressed.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_settings_pressed.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ad13.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ad13.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\raw_music5.mp3.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\raw\\music5.mp3"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bottom_bar.9.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\bottom_bar.9.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_down4.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\down4.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_music_pressed.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_music_pressed.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer4.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer4.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_search.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer11.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer11.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_putong2.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\putong2.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_tb12.jpg.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-anydpi-v26\\tb12.jpg"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_find_frd_pressed.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ad14.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ad14.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\raw_music0.mp3.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\raw\\music0.mp3"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myself12.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\myself12.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer2.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer2.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ad11.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ad11.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_load1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\load1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_singer5.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\singer5.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_load4.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\load4.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zuijin1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\zuijin1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\round.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zuijin6.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\zuijin6.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_downn.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\downn.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myself15.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\myself15.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressdrawable.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable\\progressdrawable.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_page1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\page1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_player113.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\player113.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_down.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\down.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_page02.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\page02.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tab_music_normal.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\tab_music_normal.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_five.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\five.xml"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background2.jpg.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\background2.jpg"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\raw_music3.mp3.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\raw\\music3.mp3"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_purse1.png.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\drawable-v24\\purse1.png"
+    },
+    {
+        "merged": "F:\\dzy\\Android\\QQMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "F:\\dzy\\Android\\QQMusic\\app\\src\\main\\res\\layout\\register.xml"
+    }
+]

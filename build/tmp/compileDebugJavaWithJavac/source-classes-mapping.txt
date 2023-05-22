@@ -1,0 +1,111 @@
+com/example/qqmusic/downLoad/LoadInfo.java
+ com.example.qqmusic.downLoad.LoadInfo
+com/example/qqmusic/activity/thirdActivity.java
+ com.example.qqmusic.activity.thirdActivity
+com/example/qqmusic/adapter/VerticalAdappter.java
+ com.example.qqmusic.adapter.VerticalAdappter
+ com.example.qqmusic.adapter.VerticalAdappter$verticalviewholder
+com/example/qqmusic/adapter/ImageAdapter.java
+ com.example.qqmusic.adapter.ImageAdapter
+com/example/qqmusic/fragment/downFragment.java
+ com.example.qqmusic.fragment.downFragment
+ com.example.qqmusic.fragment.downFragment$1
+com/example/qqmusic/Server/MusicService.java
+ com.example.qqmusic.Server.MusicService
+ com.example.qqmusic.Server.MusicService$1
+ com.example.qqmusic.Server.MusicService$MusicControl
+com/example/qqmusic/fragment/musicFragment.java
+ com.example.qqmusic.fragment.musicFragment
+ com.example.qqmusic.fragment.musicFragment$1
+com/example/qqmusic/MusicService.java
+ com.example.qqmusic.MusicService
+ com.example.qqmusic.MusicService$MusicControl
+com/example/qqmusic/playerfragment/singerActivity.java
+ com.example.qqmusic.playerfragment.singerActivity
+ com.example.qqmusic.playerfragment.singerActivity$1
+ com.example.qqmusic.playerfragment.singerActivity$MyAdapter
+ com.example.qqmusic.playerfragment.singerActivity$ViewHolder
+com/example/qqmusic/adapter/SingerAdapter.java
+ com.example.qqmusic.adapter.SingerAdapter
+com/example/qqmusic/DownLoadListener.java
+ com.example.qqmusic.DownLoadListener
+com/example/qqmusic/downFragment/Fragment_first.java
+ com.example.qqmusic.downFragment.Fragment_first
+com/example/qqmusic/fragment/Fragment_thrid.java
+ com.example.qqmusic.fragment.Fragment_thrid
+com/example/qqmusic/settings/TXActivity.java
+ com.example.qqmusic.settings.TXActivity
+ com.example.qqmusic.settings.TXActivity$1
+com/example/qqmusic/downLoad/DBHelper.java
+ com.example.qqmusic.downLoad.DBHelper
+com/example/qqmusic/helper/MySQLiteHelper.java
+ com.example.qqmusic.helper.MySQLiteHelper
+com/example/qqmusic/activity/firstActivity.java
+ com.example.qqmusic.activity.firstActivity
+ com.example.qqmusic.activity.firstActivity$1
+ com.example.qqmusic.activity.firstActivity$OnClickControl
+ com.example.qqmusic.activity.firstActivity$OnSeekBarChangeControl
+com/example/qqmusic/fragment/Fragment_second.java
+ com.example.qqmusic.fragment.Fragment_second
+com/example/qqmusic/fragment/playerFragment.java
+ com.example.qqmusic.fragment.playerFragment
+ com.example.qqmusic.fragment.playerFragment$1
+ com.example.qqmusic.fragment.playerFragment$2
+ com.example.qqmusic.fragment.playerFragment$TimerRunnable
+com/example/qqmusic/playerfragment/ad_1.java
+ com.example.qqmusic.playerfragment.ad_1
+com/example/qqmusic/adapter/MyFragmentPagerAdapter.java
+ com.example.qqmusic.adapter.MyFragmentPagerAdapter
+com/example/qqmusic/downLoad/Downloader.java
+ com.example.qqmusic.downLoad.Downloader
+ com.example.qqmusic.downLoad.Downloader$MyThread
+com/example/qqmusic/fragment/settingsFragment.java
+ com.example.qqmusic.fragment.settingsFragment
+ com.example.qqmusic.fragment.settingsFragment$1
+com/example/qqmusic/playerfragment/playerActivity.java
+ com.example.qqmusic.playerfragment.playerActivity
+ com.example.qqmusic.playerfragment.playerActivity$1
+ com.example.qqmusic.playerfragment.playerActivity$2
+ com.example.qqmusic.playerfragment.playerActivity$MyServiceConn
+com/example/qqmusic/downLoad/DownloadInfo.java
+ com.example.qqmusic.downLoad.DownloadInfo
+com/example/qqmusic/fragment/Fragment_first.java
+ com.example.qqmusic.fragment.Fragment_first
+com/example/qqmusic/activity/fourthActivity.java
+ com.example.qqmusic.activity.fourthActivity
+com/example/qqmusic/downFragment/Fragment_second.java
+ com.example.qqmusic.downFragment.Fragment_second
+com/example/qqmusic/downLoad/thirdActivity.java
+ com.example.qqmusic.downLoad.thirdActivity
+ com.example.qqmusic.downLoad.thirdActivity$1
+com/example/qqmusic/player/song.java
+ com.example.qqmusic.player.song
+com/example/qqmusic/Server/DownLoadService.java
+ com.example.qqmusic.Server.DownLoadService
+ com.example.qqmusic.Server.DownLoadService$1
+ com.example.qqmusic.Server.DownLoadService$DownLoadBinder
+com/example/qqmusic/activity/secondActivity.java
+ com.example.qqmusic.activity.secondActivity
+com/example/qqmusic/playerfragment/ad_3.java
+ com.example.qqmusic.playerfragment.ad_3
+com/example/qqmusic/activity/homeActivity.java
+ com.example.qqmusic.activity.homeActivity
+ com.example.qqmusic.activity.homeActivity$MyPageChangeListennr
+com/example/qqmusic/downLoad/DownLoadTask.java
+ com.example.qqmusic.downLoad.DownLoadTask
+com/example/qqmusic/downFragment/Fragment_thrid.java
+ com.example.qqmusic.downFragment.Fragment_thrid
+com/example/qqmusic/search/searchActivity.java
+ com.example.qqmusic.search.searchActivity
+com/example/qqmusic/BuildConfig.java
+ com.example.qqmusic.BuildConfig
+com/example/qqmusic/playerfragment/ad_2.java
+ com.example.qqmusic.playerfragment.ad_2
+com/example/qqmusic/activity/registerActivity.java
+ com.example.qqmusic.activity.registerActivity
+com/example/qqmusic/downLoad/Dao.java
+ com.example.qqmusic.downLoad.Dao
+com/example/qqmusic/activity/MainActivity.java
+ com.example.qqmusic.activity.MainActivity
+com/example/qqmusic/activity/loginActivity.java
+ com.example.qqmusic.activity.loginActivity

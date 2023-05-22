@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.qqmusic"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:6:5-67
+11-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:7:5-81
+12-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:7:22-78
+13
+14    <application
+14-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:9:5-42:19
+15        android:allowBackup="true"
+15-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:10:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] F:\grade\gradle-8.2-milestone-1\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:label="@string/app_name"
+19-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/logo"
+20-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:12:9-41
+21        android:supportsRtl="true"
+21-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.QQMusic" >
+23-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:14:9-45
+24        <service
+24-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:16:9-19:39
+25            android:name="com.example.qqmusic.Server.MusicService"
+25-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:17:13-48
+26            android:enabled="true"
+26-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:18:13-35
+27            android:exported="true" />
+27-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:19:13-36
+28        <service
+28-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:20:9-23:39
+29            android:name="com.example.qqmusic.Server.DownLoadService"
+29-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:21:13-51
+30            android:enabled="true"
+30-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:22:13-35
+31            android:exported="true" />
+31-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:23:13-36
+32
+33        <activity android:name="com.example.qqmusic.activity.loginActivity" />
+33-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:25:9-60
+33-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:25:19-57
+34        <activity android:name="com.example.qqmusic.activity.homeActivity" />
+34-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:26:9-59
+34-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:26:19-56
+35        <activity android:name="com.example.qqmusic.activity.registerActivity" />
+35-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:27:9-63
+35-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:27:19-60
+36        <activity android:name="com.example.qqmusic.playerfragment.playerActivity" />
+36-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:28:9-67
+36-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:28:19-64
+37        <activity android:name="com.example.qqmusic.playerfragment.singerActivity" />
+37-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:29:9-67
+37-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:29:19-64
+38        <activity android:name="com.example.qqmusic.search.searchActivity" />
+38-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:30:9-59
+38-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:30:19-56
+39        <activity android:name="com.example.qqmusic.downLoad.thirdActivity" />
+39-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:31:9-60
+39-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:31:19-57
+40        <activity android:name="com.example.qqmusic.settings.TXActivity" />
+40-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:32:9-57
+40-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:32:19-54
+41        <activity
+41-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:33:9-41:20
+42            android:name="com.example.qqmusic.activity.MainActivity"
+42-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:34:13-50
+43            android:exported="true" >
+43-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:35:13-36
+44            <intent-filter>
+44-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:36:13-40:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:37:17-69
+45-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:37:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:39:17-77
+47-->F:\dzy\Android\QQMusic\app\src\main\AndroidManifest.xml:39:27-74
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>
